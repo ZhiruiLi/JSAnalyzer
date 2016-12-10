@@ -1,12 +1,4 @@
-<h1 align="center">Final Report</h1>
-
-This report is for the software testing homework.
-For more information and latest update, please visit the project homepage,
-all the code and the report is available there:
-https://github.com/li-zhirui/JSAnalyzer
-
-
-<p align="right">Author: Li Zhirui</p>
+# Final Report
 
 <h2 id="abs">Abstract</h2>
 
